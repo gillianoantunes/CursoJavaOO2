@@ -21,7 +21,7 @@ public class Program {
 		double perimetro = ret.perimeter();
 		double diagonal = ret.diagonal();
 		ret.mostrarDados();
-		
+		sc.close();
 		
 
 	}
